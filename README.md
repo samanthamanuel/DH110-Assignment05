@@ -44,18 +44,19 @@ This low-fidelity prototype supports the following tasks:
 
 ## Wireframe
 
-![Lofi Prototype 1](wireframe 1)
-![Lofi Prototype 2](wireframe 2)
+![Lofi Prototype 1](wireframe 1.png)
+
+![Lofi Prototype 2](wireframe 2.png)
 
 ## Wireflow 
 
-![Lofi Prototype 3](wireflow 1)
-![Lofi Prototype 4](wireflow 2)
+![Lofi Prototype 3](wireflow 1.png)
+![Lofi Prototype 4](wireflow 2.png)
 
 ## Low-Fidelity Prototype Testing
 
-![Lofi Prototype Test 1]()
-![Lofi Prototype Test 2]()
+![Lofi Prototype Test 1](task wireflow 1.png)
+![Lofi Prototype Test 2](task wireflow 2.png)
 
 Please find the voice recording of the demo session [here]()
 
