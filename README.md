@@ -1,4 +1,4 @@
-# Assignment 06: Low-Fidelity Prototype, Samantha Alexis Manuel, DH110
+# Assignment 05: Low-Fidelity Prototype, Samantha Alexis Manuel, DH110
 
 
 ## Project Description
