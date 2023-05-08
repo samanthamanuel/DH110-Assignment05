@@ -63,9 +63,9 @@ This low-fidelity prototype supports the following tasks:
 
 ## User Interactions/Demo
 
-![user1]()
+![user1](https://github.com/samanthamanuel/DH110-Assignment05/blob/9481e9944ab2ccd220b0e658030d8e89f058ee3b/demo%201.png)
 
-![user2]()
+![user2](https://github.com/samanthamanuel/DH110-Assignment05/blob/9481e9944ab2ccd220b0e658030d8e89f058ee3b/demo%202.png)
 
 Please find the voice recording of the demo session [here](https://drive.google.com/file/d/1Su5bBa2GSkHhaajA_vgjrxqJ2kMLfkke/view?usp=sharing)
 
