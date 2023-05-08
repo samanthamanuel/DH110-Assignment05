@@ -44,22 +44,28 @@ This low-fidelity prototype supports the following tasks:
 
 ## Wireframe
 
-![wireframe1](wireframe 1.png)
-![Lofi Prototype 1](wireframe 1.png)
-
-![Lofi Prototype 2](wireframe 2.png)
+![Lofi Prototype 1](https://github.com/samanthamanuel/DH110-Assignment05/blob/038bb89b8315d084a216042405544b9b2e7b7697/wireframe%201.png)
+![Lofi Prototype 2](https://github.com/samanthamanuel/DH110-Assignment05/blob/038bb89b8315d084a216042405544b9b2e7b7697/wireframe%202.png)
 
 ## Wireflow 
 
-![wireflow](wireflow 1.png)
+![wireflow1](https://github.com/samanthamanuel/DH110-Assignment05/blob/038bb89b8315d084a216042405544b9b2e7b7697/wireflow%201.png)
 
-![Lofi Prototype 4](wireflow 2.png)
+![wireflow2](https://github.com/samanthamanuel/DH110-Assignment05/blob/038bb89b8315d084a216042405544b9b2e7b7697/wireflow%202.png)
+
 
 ## Low-Fidelity Prototype Testing
 
-![Lofi Prototype Test 1](task wireflow 1.png)
+![wireflow1](https://github.com/samanthamanuel/DH110-Assignment05/blob/038bb89b8315d084a216042405544b9b2e7b7697/task%20wireflow%201.png)
 
-![Lofi Prototype Test 2](task wireflow 2.png)
+![wireflow2](https://github.com/samanthamanuel/DH110-Assignment05/blob/038bb89b8315d084a216042405544b9b2e7b7697/task%20wireflow%202.png)
+
+
+## User Interactions/Demo
+
+![user1]()
+
+![user2]()
 
 Please find the voice recording of the demo session [here](https://drive.google.com/file/d/1Su5bBa2GSkHhaajA_vgjrxqJ2kMLfkke/view?usp=sharing)
 
