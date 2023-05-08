@@ -44,6 +44,7 @@ This low-fidelity prototype supports the following tasks:
 
 ## Wireframe
 
+![wireframe1](wireframe 1.png)
 ![Lofi Prototype 1](wireframe 1.png)
 
 ![Lofi Prototype 2](wireframe 2.png)
