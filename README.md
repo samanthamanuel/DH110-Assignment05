@@ -50,15 +50,17 @@ This low-fidelity prototype supports the following tasks:
 
 ## Wireflow 
 
-![Lofi Prototype 3](wireflow 1.png)
+![wireflow](wireflow 1.png)
+
 ![Lofi Prototype 4](wireflow 2.png)
 
 ## Low-Fidelity Prototype Testing
 
 ![Lofi Prototype Test 1](task wireflow 1.png)
+
 ![Lofi Prototype Test 2](task wireflow 2.png)
 
-Please find the voice recording of the demo session [here]()
+Please find the voice recording of the demo session [here](https://drive.google.com/file/d/1Su5bBa2GSkHhaajA_vgjrxqJ2kMLfkke/view?usp=sharing)
 
 ## Reflection 
 
